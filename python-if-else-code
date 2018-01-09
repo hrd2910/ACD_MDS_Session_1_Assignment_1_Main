@@ -1,4 +1,4 @@
-# Python Program Using if-elif-else 
+# Python Program Using if-elif-else to print grade of a student
 
 
 print("Enter marks obtained in 5 subjects: ")
